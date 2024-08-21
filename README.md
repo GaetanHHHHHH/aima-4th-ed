@@ -1,5 +1,7 @@
 # Artificial Intelligence: A Modern Approach (4th ed.)
 
+AIMA is the most used textbook used for AI university courses. It contains most, if not all and more, content used in Advanced Master's Degrees in AI for example. I use it as a personal training on the theoretical basis of AI as a scientific and engineering field.
+
 * Status: In progress
 * Authors: Stuart Russell & Peter Norvig
 
